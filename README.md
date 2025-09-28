@@ -1,10 +1,11 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=980&height=100&color=FFD700&multiline=true&lines=%E2%9C%A8%20Ol%C3%A1!%20Seja%20Bem%20Vindo!%20%E2%9C%A8;%E2%9C%A8%20Me%20chamo%20ANA%20VIANA%20%E2%9C%A8"
-    alt="✨Olá! Seja Bem Vindo! ✨ • ✨Me chamo ANA VIANA✨"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=650&height=80&color=FFD700&multiline=true&lines=✨Ol%C3%A1!%20%F0%9F%91%8B;Seja%20Bem%20Vindo!%20Me%20Chamo%20ANA%20VIANA✨"
+    alt="✨Olá! Seja Bem Vindo! Me chamo ANA VIANA✨"
   />
 </h1>
 
+---
 
 🎯 Desenvolvedora em formação | Estudando **Java** <br>
 🚀 Experiência empreendedora, criatividade e adaptabilidade  <br>
@@ -63,14 +64,15 @@
 ---
 
 ### 🌐 Conecte-se comigo
-- <a href="mailto:anavianacpv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="18" /> <b>Email:</b> anavianacpv@gmail.com</a>
+- <a href="mailto:anavianacpv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="18" /> <b>Email:</b> anaviana.cpv@gmail.com</a>
 - <a href="https://www.linkedin.com/in/AnaVianaCPV" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="18" /> <b>LinkedIn:</b> /in/AnaVianaCPV</a>
 - <a href="https://github.com/AnaVianaCPV" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" height="18" /> <b>GitHub:</b> @AnaVianaCPV</a>
 
 ---
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=980&height=100&color=FFD700&multiline=true&lines=%E2%9C%A8%20Cada%20linha%20de%20c%C3%B3digo%20%C3%A9%20um%20passo%20%E2%9C%A8;%E2%9C%A8%20Rumo%20%C3%A0%20realiza%C3%A7%C3%A3o%20dos%20meus%20sonhos%20%E2%9C%A8"
-    alt="✨ Cada linha de código é um passo ✨ • ✨ Rumo à realização dos meus sonhos ✨"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=950&height=90&color=FFD700&multiline=true&lines=%E2%9C%A8%20Cada%20linha%20de%20c%C3%B3digo%20%C3%A9%20um%20passo;rumo%20%C3%A0%20realiza%C3%A7%C3%A3o%20dos%20meus%20sonhos%20%E2%9C%A8!"
+    alt="Cada linha de código é um passo • rumo à realização dos meus sonhos"
   />
 </h1>
+
