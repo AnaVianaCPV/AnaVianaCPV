@@ -1,16 +1,68 @@
-## Hi there 👋
+## 👩‍💻 Olá! Me chamo Ana Viana!
 
-<!--
-**AnaVianaCPV/AnaVianaCPV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedora em formação | Estudando **Java** 
+🚀 Experiência empreendedora, criatividade e adaptabilidade  
+🌍 Diversidade cultural (já viajei para diferentes regiões do Brasil e também para a França)
 
-Here are some ideas to get you started:
+- 📚 Estudando **Java** (POO, SOLID, boas práticas)  
+- 🚀 Desenvolvendo projetos práticos com foco em back-end  
+- 🎯 Objetivo: iniciar carreira como desenvolvedora Back-End  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true)](https://github.com/AnaVianaCPV/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnaVianaCPV&theme=default)](https://git.io/streak-stats) 
+
+---
+
+### 🚀 Tecnologias que estou aprendendo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Outras tecnologias que já estudei
+*(Ainda revisando e fortalecendo o conhecimento nessas áreas)*  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+---
+
+### 🎨 Experiências adicionais
+- 🖌️ CorelDRAW & Photoshop (design gráfico e sublimação)  
+- 📊 Excel (organização e gestão administrativa)  
+- 🍕 Gestão de negócios – experiência empreendedora administrando pizzaria  
+
+---
+
+### 🌍 Idiomas
+- Português (nativo)  
+- Inglês (básico → intermediário, em evolução constante)    
+
+---
+
+### 💡 Soft Skills & Diferenciais
+- 🤝 Trabalho em equipe e comunicação clara  
+- 🌍 Diversidade cultural e adaptabilidade  
+- 💼 Perfil empreendedor e proativo  
+- 🕒 Organização e gestão de tempo em múltiplas tarefas  
+
+---
+
+### 📌 Projetos em destaque
+- [Praticando Java](https://github.com/AnaVianaCPV/PraticandoJava) → Exercícios de POO em Java  
+- [Projeto E-commerce](https://github.com/AnaVianaCPV/Projeto_ecommerce) → Aplicação de POO e Técnicas de Programação 
+- [Catálogo de Filmes](https://github.com/AnaVianaCPV/Catalogo-Filmes) → Projeto POO  
+
+---
+
+### 🌐 Conecte-se comigo
+- <a href="mailto:anavianacpv@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="18" /> <b>Email:</b> anavianacpv@gmail.com</a>
+- <a href="https://www.linkedin.com/in/AnaVianaCPV" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" height="18" /> <b>LinkedIn:</b> /in/AnaVianaCPV</a>
+- <a href="https://github.com/AnaVianaCPV" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=github" height="18" /> <b>GitHub:</b> @AnaVianaCPV</a>
+
+---
+✨ *Cada linha de código é um passo rumo à realização dos meus sonhos.*  ✨
