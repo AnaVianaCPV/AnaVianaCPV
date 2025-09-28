@@ -1,12 +1,9 @@
 ## 👩‍💻 Olá! Me chamo Ana Viana!
 
-🎯 Desenvolvedora em formação | Estudando **Java** 
-🚀 Experiência empreendedora, criatividade e adaptabilidade  
+🎯 Desenvolvedora em formação | Estudando **Java** <br>
+🚀 Experiência empreendedora, criatividade e adaptabilidade  <br>
 🌍 Diversidade cultural (já viajei para diferentes regiões do Brasil e também para a França)
 
-- 📚 Estudando **Java** (POO, SOLID, boas práticas)  
-- 🚀 Desenvolvendo projetos práticos com foco em back-end  
-- 🎯 Objetivo: iniciar carreira como desenvolvedora Back-End  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true)](https://github.com/AnaVianaCPV/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -32,29 +29,29 @@
 ---
 
 ### 🎨 Experiências adicionais
-- 🖌️ CorelDRAW & Photoshop (design gráfico e sublimação)  
-- 📊 Excel (organização e gestão administrativa)  
+- 🖌️ CorelDRAW & Photoshop (design gráfico e sublimação)  <br>
+- 📊 Excel (organização e gestão administrativa)  <br>
 - 🍕 Gestão de negócios – experiência empreendedora administrando pizzaria  
 
 ---
 
 ### 🌍 Idiomas
-- Português (nativo)  
+- Português (nativo)  <br>
 - Inglês (básico → intermediário, em evolução constante)    
 
 ---
 
-### 💡 Soft Skills & Diferenciais
-- 🤝 Trabalho em equipe e comunicação clara  
-- 🌍 Diversidade cultural e adaptabilidade  
-- 💼 Perfil empreendedor e proativo  
+### 💡 Soft Skills & Diferenciais<br>
+- 🤝 Trabalho em equipe e comunicação clara  <br>
+- 🌍 Diversidade cultural e adaptabilidade  <br>
+- 💼 Perfil empreendedor e proativo  <br>
 - 🕒 Organização e gestão de tempo em múltiplas tarefas  
 
 ---
 
-### 📌 Projetos em destaque
-- [Praticando Java](https://github.com/AnaVianaCPV/PraticandoJava) → Exercícios de POO em Java  
-- [Projeto E-commerce](https://github.com/AnaVianaCPV/Projeto_ecommerce) → Aplicação de POO e Técnicas de Programação 
+### 📌 Projetos em destaque<br>
+- [Praticando Java](https://github.com/AnaVianaCPV/PraticandoJava) → Exercícios de POO em Java  <br>
+- [Projeto E-commerce](https://github.com/AnaVianaCPV/Projeto_ecommerce) → Aplicação de POO e Técnicas de Programação <br>
 - [Catálogo de Filmes](https://github.com/AnaVianaCPV/Catalogo-Filmes) → Projeto POO  
 
 ---
