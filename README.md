@@ -11,9 +11,17 @@
 🚀 Experiência empreendedora, criatividade e adaptabilidade  <br>
 🌍 Diversidade cultural (já viajei para diferentes regiões do Brasil e também para a França)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=6&hide=html,css,scss,md)](https://github.com/AnaVianaCPV) <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true)](https://github.com/AnaVianaCPV/github-readme-stats) <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnaVianaCPV&theme=default)](https://git.io/streak-stats) 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&include_forks=true&layout=compact&langs_count=8&hide=html,css,scss,md,xml,json&cache_seconds=1800&theme=dracula&hide_border=true)](https://github.com/AnaVianaCPV)
+
+
+[![AnaVianaCPV GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=dracula&hide_border=true)](https://github.com/AnaVianaCPV)
+
+>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnaVianaCPV&theme=dracula&hide_border=true&fire=purple&ring=purple&currStreakLabel=white)](https://git.io/streak-stats)
+
 
 ---
 
