@@ -11,9 +11,8 @@
 🚀 Experiência empreendedora, criatividade e adaptabilidade  <br>
 🌍 Diversidade cultural (já viajei para diferentes regiões do Brasil e também para a França)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true)](https://github.com/AnaVianaCPV/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true)](https://github.com/AnaVianaCPV/github-readme-stats) <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnaVianaCPV&theme=default)](https://git.io/streak-stats) 
 
 ---
