@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=980&height=100&color=FFD700&multiline=true&lines=%E2%9C%A8%20Ol%C3%A1!%20Seja%20Bem%20Vindo!%20%E2%9C%A8;%E2%9C%A8%20Me%20chamo%20ANA%20VIANA%20%E2%9C%A8"
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=980&height=100&color=FFD700&multiline=true&lines=%E2%9C%A8%20Ol%C3%A1!%20Seja%20Bem%20Vindo!%20%E2%9C%A8;%E2%9C%A8%20Eu%20sou%20a%20Ana%20Viana,%20prazer!%E2%9C%A8"
     alt="✨Olá! Seja Bem Vindo! ✨ • ✨Eu sou a Ana Viana, prazer!✨"
   />
 </h1>
@@ -13,8 +13,6 @@
 
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&include_forks=true&layout=compact&langs_count=8&hide=html,css,scss,md,xml,json&cache_seconds=1800&theme=dracula&hide_border=true)](https://github.com/AnaVianaCPV)
 
 
 [![AnaVianaCPV GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=dracula&hide_border=true)](https://github.com/AnaVianaCPV)
