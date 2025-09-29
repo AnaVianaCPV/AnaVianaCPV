@@ -1,7 +1,7 @@
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&duration=4000&pause=150&center=true&vCenter=true&width=980&height=100&color=FFD700&multiline=true&lines=%E2%9C%A8%20Ol%C3%A1!%20Seja%20Bem%20Vindo!%20%E2%9C%A8;%E2%9C%A8%20Me%20chamo%20ANA%20VIANA%20%E2%9C%A8"
-    alt="✨Olá! Seja Bem Vindo! ✨ • ✨Me chamo ANA VIANA✨"
+    alt="✨Olá! Seja Bem Vindo! ✨ • ✨Eu sou a Ana Viana, prazer!✨"
   />
 </h1>
 
