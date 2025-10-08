@@ -16,16 +16,34 @@
 
 ## 🕯️ Minhas Linguagens & Estatísticas 🕸️
 
-![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=AnaVianaCPV&theme=dracula&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
+<img 
+    width="90%"
+    src="https://streak-stats.demolab.com/?user=AnaVianaCPV&theme=dracula&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideNums=B0B0B0&dates=808080&sideLabels=B0B0B0" 
+    alt="GitHub Streak Stats"
+/>
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true&include_all_commits=true&count_private=true&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFD700" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=10&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFD700" />
+<img 
+    width="90%"
+    src="https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true&include_all_commits=true&count_private=true&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=B0B0B0" 
+    alt="GitHub Readme Stats" 
+/>
+
+<br>
+
+<img 
+    width="90%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=10&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=B0B0B0" 
+    alt="Top Languages" 
+/>
 
 </div>
+---
 
+"O código é ouro nas mãos de quem brilha no escuro." ✨
 
+</div>
 ---
 
 ### 🦇 *“O código é ouro nas mãos de quem brilha no escuro.”* ✨
