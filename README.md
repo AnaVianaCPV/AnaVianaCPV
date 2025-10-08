@@ -9,7 +9,7 @@
 
 🎯 Desenvolvedora em formação | Estudando **Java** <br>
 🚀 Experiência empreendedora, criatividade e adaptabilidade  <br>
-🌍 Diversidade cultural (já viajei para diferentes regiões do Brasil e também para a França)
+🌍 Diversidade cultural 
 
 
 ## 🕯️ Minhas Linguagens & Estatísticas 🕸️
