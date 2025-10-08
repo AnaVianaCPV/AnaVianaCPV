@@ -12,20 +12,19 @@
 🌍 Diversidade cultural (já viajei para diferentes regiões do Brasil e também para a França)
 
 
-
 <div align="center">
 
 ## 🕯️ Minhas Linguagens & Estatísticas 🕸️
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaVianaCPV&theme=dracula&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700" />
+![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=AnaVianaCPV&theme=dracula&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700)
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<br>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true&include_all_commits=true&count_private=true&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFD700" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=10&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFD700" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaVianaCPV&show_icons=true&include_all_commits=true&count_private=true&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFD700" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaVianaCPV&layout=compact&langs_count=10&include_forks=true&theme=dracula&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFD700" />
 
 </div>
+
 
 ---
 
