@@ -5,9 +5,6 @@
   />
 </h1>
 
-
-
-🎯 Desenvolvedora em formação | Estudando **Java** <br>
 🚀 Experiência empreendedora, criatividade e adaptabilidade  <br>
 🌍 Diversidade cultural 
 
